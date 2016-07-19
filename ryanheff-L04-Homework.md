@@ -1,7 +1,7 @@
-L04 Homework
-Ryan Heffernan
-Instructor: Jim Byers
-7/18/2016
+<h1>L04 Homework</h1><br>
+Ryan Heffernan<br>
+Instructor: Jim Byers<br>
+7/18/2016<br>
 
 1.Look at the head and the tail of chipotle.tsv in the data subdirectory of this repo. Think for a minute about how the data is structured. What do you think each column means? What do you think each row means? Tell me! (If you're unsure, look at more of the file contents.)
 
