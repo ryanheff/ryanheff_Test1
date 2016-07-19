@@ -50,35 +50,35 @@ $ grep "Chicken Burrito" chipotle.tsv | grep "Black" | wc -l
 
 6.Make a list of all of the CSV or TSV files in the our class repo. repo (using a single command). You will be working on your local repo on your laptop. Think about how wildcard characters can help you with this task.
 
-$ find . -name '*.*sv'
-./data/airlines.csv
-./data/Airline_on_time_west_coast.csv
-./data/bank-additional.csv
-./data/bikeshare.csv
-./data/chipotle.tsv
-./data/citibike_feb2014.csv
-./data/drinks.csv
-./data/drones.csv
-./data/hitters.csv
-./data/icecream.csv
-./data/imdb_1000.csv
-./data/mtcars.csv
-./data/NBA_players_2015.csv
-./data/ozone.csv
-./data/pronto_cycle_share/2015_station_data.csv
-./data/pronto_cycle_share/2015_trip_data.csv
-./data/pronto_cycle_share/2015_weather_data.csv
-./data/rossmann.csv
-./data/rt_critics.csv
-./data/sms.tsv
-./data/stores.csv
-./data/syria.csv
-./data/time_series_train.csv
-./data/titanic.csv
-./data/ufo.csv
-./data/vehicles_test.csv
-./data/vehicles_train.csv
-./data/yelp.csv
+$ find . -name '*.*sv'<br>
+./data/airlines.csv<br>
+./data/Airline_on_time_west_coast.csv<br>
+./data/bank-additional.csv<br>
+./data/bikeshare.csv<br>
+./data/chipotle.tsv<br>
+./data/citibike_feb2014.csv<br>
+./data/drinks.csv<br>
+./data/drones.csv<br>
+./data/hitters.csv<br>
+./data/icecream.csv<br>
+./data/imdb_1000.csv<br>
+./data/mtcars.csv<br>
+./data/NBA_players_2015.csv<br>
+./data/ozone.csv<br>
+./data/pronto_cycle_share/2015_station_data.csv<br>
+./data/pronto_cycle_share/2015_trip_data.csv<br>
+./data/pronto_cycle_share/2015_weather_data.csv<br>
+./data/rossmann.csv<br>
+./data/rt_critics.csv<br>
+./data/sms.tsv<br>
+./data/stores.csv<br>
+./data/syria.csv<br>
+./data/time_series_train.csv<br>
+./data/titanic.csv<br>
+./data/ufo.csv<br>
+./data/vehicles_test.csv<br>
+./data/vehicles_train.csv<br>
+./data/yelp.csv<br>
 
 
 7.Count the approximate number of occurrences of the word "dictionary" (regardless of case) across all files of our class repo.
